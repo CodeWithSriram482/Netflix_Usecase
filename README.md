@@ -5,6 +5,9 @@
 
 
 ### Info abour usecase
+```bash
+You control your profile and can limit what is shown on search engines and other off-LinkedIn services. Viewers who aren’t signed in to LinkedIn will see all or some portions of the profile view displayed below.
+```
 
 
 # Python
